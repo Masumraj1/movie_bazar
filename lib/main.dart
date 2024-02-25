@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:movie_bazar/view/home_screen/home_screen.dart';
 
 import 'colors.dart';
-import 'home_page/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
